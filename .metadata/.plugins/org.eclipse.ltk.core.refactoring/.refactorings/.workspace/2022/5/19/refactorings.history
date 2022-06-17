@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 17 resources" deleteContents="true" description="Delete 17 resources" element1="/gerenciador" element10="/Servers" element11="/Java-treinamento" element12="/junit" element13="/bytebank-encapsulado" element14="/Java8" element15="/bytebank" element16="/java-pilha" element17="/bytebank-herdado" element2="/bytebank-herdado-conta" element3="/java-io" element4="/gerenciador-de-cursos" element5="/sintaxe-variaveis-e-fluxo" element6="/bytebank-composto" element7="/Enum" element8="/sintaxe-basica" element9="/bytebank-biblioteca" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="17" stamp="1651606240536"/>
+</session>
